@@ -244,7 +244,7 @@ void appendSettingsFromString(String content) throws LabelRecognizerException
 #### Parameters
 `content` A JSON string that represents the content of the settings.   
 
-### Exceptions
+#### Exceptions
 
 [`LabelRecognizerException`](label-recognizer-exception.md)
 
