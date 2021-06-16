@@ -208,7 +208,7 @@ void UpdateRuntimeSettings(DLR_RuntimeSettings settings)
 
 [`DLR_Exception`](label-recognizer-exception.md)
 
-### Code Snippet
+#### Code Snippet
 ```csharp
 LabelRecognizer recognizer = new LabelRecognizer();
 recognizer.InitLicense("t0260NwAAAHV***************");

@@ -83,7 +83,7 @@ LabelRecognizer recognizer = new LabelRecognizer("t0260NwAAAHV***************");
 &nbsp;
 
 
-### Destroy
+### destroy
 
 ```java
 void destroy()	
@@ -182,7 +182,7 @@ void appendCharacterModelBuffer (String name, byte[] prototxtBuffer, byte[] txtB
 `characterModelBuffer` The .caffemodel file data of the CharacterModel in a byte array.   
 
 
-### Exceptions
+#### Exceptions
 [`LabelRecognizerException`](label-recognizer-exception.md)
 
 #### Code Snippet
@@ -406,7 +406,7 @@ Reset all runtime settings to default values.
 void resetRuntimeSettings () throws LabelRecognizerException
 ```   
    
-### Exceptions
+#### Exceptions
 [`LabelRecognizerException`](label-recognizer-exception.md)
 
 #### Code Snippet

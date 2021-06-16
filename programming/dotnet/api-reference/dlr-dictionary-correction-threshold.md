@@ -15,25 +15,25 @@ Stores the dictionary correction threshold.
   
 | Attribute | Type |
 |---------- | ---- |
-| [`minWordLength`](#minwordlength) | *int* |
-| [`maxWordLength`](#maxwordlength) | *int* |
-| [`threshold`](#threshold) | *int* |
+| [`MinWordLength`](#minwordlength) | *int* |
+| [`MaxWordLength`](#maxwordlength) | *int* |
+| [`Threshold`](#threshold) | *int* |
 
 
-### minWordLength
+### MinWordLength
 The minimum value of word length.
 ```csharp
-int minWordLength
+int MinWordLength
 ```
 
-### maxWordLength
+### MaxWordLength
 The maximum value of word length.
 ```csharp
-int maxWordLength
+int MaxWordLength
 ```
 
-### threshold
+### Threshold
 The threshold for the number of error correction characters.
 ```csharp
-int threshold
+int Threshold
 ```
